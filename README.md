@@ -1,9 +1,9 @@
 # assign1git
 Author: Forrest Cranmer 
 
-Initial commit
-New branch commit
-
+1. Initial commit
+2. Test commit
+3. New branch commit
 
 
 Important...
@@ -12,7 +12,4 @@ Important...
 ...
 ...
 ...End
-
-
-
 
